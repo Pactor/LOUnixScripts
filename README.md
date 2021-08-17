@@ -15,3 +15,5 @@ At the end paste the line
 Then exit and save with ctrl x
 
 Every 10 minutes the script will check if servers are up, and if not restart them
+
+You can check the file /home/lo/servers.log for any errors
