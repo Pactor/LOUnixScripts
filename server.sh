@@ -30,6 +30,7 @@ PROVIDERKEY=$6
 IPADDRESS=YourIPAddress
 
 # You need to change this value to the directory MistServer-Linux-Shipping is in
+# /home/INSTALLDIR/LastOasis/Mist/Binaries/Linux
 DIR='/home/yourLastOasisInstallLocation'
 
 
